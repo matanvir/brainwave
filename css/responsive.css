@@ -1,0 +1,493 @@
+
+
+@media (min-width: 279px) and (max-width: 319px){
+/*  CSS start*/
+  .header .navbar-toggler{
+    border: 1px solid #473bf0;
+    border-radius: 3px;
+  }
+  .header .navbar-toggler:focus{
+    text-decoration: none;
+    background: #473bf0;
+    outline: 0;
+    box-shadow: 0 0 10px #473bf0;
+  }
+  .header .navbar-toggler .fa{
+    color: #473bf0;
+    font-size: 30px;
+    font-weight: 300;
+  }
+  .header .navbar-toggler:focus .fa{
+    color: #fff;
+  }
+
+/*  CSS end*/
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Galaxy Fold)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+/* CSS Start*/
+  .header .navbar-toggler{
+    border: 1px solid #473bf0;
+    border-radius: 3px;
+  }
+  .header .navbar-toggler:focus{
+    text-decoration: none;
+    background: #473bf0;
+    outline: 0;
+    box-shadow: 0 0 10px #473bf0;
+  }
+  .header .navbar-toggler .fa{
+    color: #473bf0;
+    font-size: 30px;
+    font-weight: 300;
+  }
+  .header .navbar-toggler:focus .fa{
+    color: #fff;
+  }
+
+  /*======================*/
+  /****Header Menu Code****/
+  /*======================*/
+  .header .navbar .navbar-nav .nav-item .nav-link{
+    margin: 0px;
+  }
+  .header .navbar-nav .nav-item .btn-info{
+    margin: 10px 0px 0px;
+  }
+
+   /*======================*/
+  /****Banner Code****/
+  /*======================*/
+  .banner{
+    width: 100%;
+    padding: 35px 0px 0px;
+  }
+  .banner_inner{
+    margin: 10px 0px 20px 0px
+  }
+  .banner_inner h1{
+    width: 100%;
+    font-size: 25px;
+    line-height: 1.3em;
+    margin: 0px 0px 10px 0px;
+  }
+  .banner_inner p{
+    width: 100%;
+    font-size: 14px;
+  }
+  .banner_inner .btn-info{
+    font-size: 13px;
+    margin: 5px 0px 0px;
+  }
+
+  .banner_inner .link{
+    margin: 10px 0px 0px 0px;
+    font-size: 12px;
+  }
+
+  /*software section start*/
+  .software {
+    padding: 20px 0px;
+  }
+
+  /*expert section start*/
+  .expert_sec{
+    padding: 35px 0px;
+  }
+
+  .expert_inner{
+    margin-top: 30px;
+  }
+  .expert_inner h2{
+    font-size: 26px;
+  }
+  .expert_inner p{
+    width: 100%;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .expert_inner .btn-info{
+    font-size: 17px;
+    padding: 8px 15px;
+    margin: 0px 0px 30px 0px;
+  }
+  .expert_sec .img-fluid{
+    width: 100%;
+  }
+
+  /*service section start*/
+  .service{
+    margin: 10px 0px;
+  }
+  .service_header h1 {
+    font-size: 30px;
+  }
+  .service_header p {
+    font-size: 16px;
+    line-height: 1.6em;
+  }
+  .service_box h4 {
+    font-size: 18px;
+}
+  .service_box img{
+    width: 100%;
+  }
+
+  /*reason section start*/
+  .reason{
+    width: 100%;
+    padding: 80px 0px 0px;
+    margin: 0px 0px;
+    position: relative;
+    z-index: 0;
+  }
+ .reason p {
+    font-size: 18px;
+    font-weight: 700;
+  }
+  .reason_inner h2 {
+    font-size: 25px;
+  }
+
+  /*client section start*/
+  .client_header h1 {
+    font-size: 30px;
+  }
+  .client_box {
+    margin: 10px 0px;
+  }
+
+  /*get started section start*/
+  .get_started{
+    text-align: center;
+  }
+  .get_inner h2 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+  }
+  .button_start .btn-info {
+    font-size: 14px;
+    width: 170px;
+    height: 45px;
+  }
+
+  /*footer section start*/
+  .footer {
+    width: 100%;
+    padding: 35px 0px;
+    text-align: center;
+  }
+  .footer ul{
+    display: none;
+  }
+
+/* CSS end*/
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+@media (min-width: 481px) and (max-width: 767px) {
+  
+/* CSS Start*/
+  .header .navbar-toggler{
+    border: 1px solid #473bf0;
+    border-radius: 3px;
+  }
+  .header .navbar-toggler:focus{
+    text-decoration: none;
+    background: #473bf0;
+    outline: 0;
+    box-shadow: 0 0 10px #473bf0;
+  }
+  .header .navbar-toggler .fa{
+    color: #473bf0;
+    font-size: 30px;
+    font-weight: 300;
+  }
+  .header .navbar-toggler:focus .fa{
+    color: #fff;
+  }
+
+  /*======================*/
+  /****Banner Code****/
+  /*======================*/
+  .banner{
+    width: 100%;
+    padding: 40px 0px 0px;
+  }
+  .banner_inner{
+    margin: 15px 0px 20px 0px
+  }
+  .banner_inner h1{
+    width: 100%;
+    font-size: 45px;
+    line-height: 1.3em;
+    margin: 0px 0px 15px 0px;
+  }
+  .banner_inner p{
+    width: 100%;
+    font-size: 18px;
+  }
+  .banner_inner .btn-info{
+    font-size: 13px;
+    margin: 10px 0px 0px;
+  }
+
+  .banner_inner .link{
+    margin: 15px 0px 0px 0px;
+    font-size: 12px;
+  }
+
+    /*software section start*/
+  .software {
+    padding: 20px 0px;
+  }
+
+  /*expert section start*/
+  .expert_sec{
+    padding: 35px 0px;
+  }
+
+  .expert_inner{
+    margin-top: 30px;
+  }
+  .expert_inner h2{
+    font-size: 26px;
+  }
+  .expert_inner p{
+    width: 100%;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .expert_inner .btn-info{
+    font-size: 17px;
+    padding: 8px 15px;
+    margin: 0px 0px 30px 0px;
+  }
+  .expert_sec .img-fluid{
+    width: 100%;
+  }
+
+    /*service section start*/
+  .service{
+    margin: 10px 0px;
+  }
+  .service_header h1 {
+    font-size: 30px;
+  }
+  .service_header p {
+    font-size: 16px;
+    line-height: 1.6em;
+  }
+  .service_box h4 {
+    font-size: 18px;
+}
+  .service_box img{
+    width: 100%;
+  }
+
+  /*reason section start*/
+  .reason{
+    width: 100%;
+    padding: 80px 0px 0px;
+    margin: 0px 0px;
+    position: relative;
+    z-index: 0;
+  }
+ .reason p {
+    font-size: 18px;
+    font-weight: 700;
+  }
+  .reason_inner h2 {
+    font-size: 25px;
+  }
+
+  /*client section start*/
+  .client_header h1 {
+    font-size: 30px;
+  }
+  .client_box {
+    margin: 10px 0px;
+  }
+
+    /*get started section start*/
+  .get_started{
+    text-align: center;
+  }
+  .get_inner h2 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+  }
+  .button_start .btn-info {
+    font-size: 14px;
+    width: 170px;
+    height: 45px;
+  }
+
+
+/* CSS end*/ 
+}
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px){
+/* CSS Start*/
+  .header .navbar-toggler{
+    border: 1px solid #473bf0;
+    border-radius: 3px;
+  }
+  .header .navbar-toggler:focus{
+    text-decoration: none;
+    background: #473bf0;
+    outline: 0;
+    box-shadow: 0 0 10px #473bf0;
+  }
+  .header .navbar-toggler .fa{
+    color: #473bf0;
+    font-size: 30px;
+    font-weight: 300;
+  }
+  .header .navbar-toggler:focus .fa{
+    color: #fff;
+  }
+
+  /*======================*/
+  /****Banner Code****/
+  /*======================*/
+  .banner{
+    width: 100%;
+    padding: 40px 0px 0px;
+  }
+  .banner_inner{
+    margin: 15px 0px 20px 0px
+  }
+  .banner_inner h1{
+    width: 100%;
+    font-size: 45px;
+    line-height: 1.3em;
+    margin: 0px 0px 15px 0px;
+  }
+  .banner_inner p{
+    width: 100%;
+    font-size: 18px;
+  }
+  .banner_inner .btn-info{
+    font-size: 13px;
+    margin: 10px 0px 0px;
+  }
+  .banner_inner .link{
+    margin: 15px 0px 0px 0px;
+    font-size: 12px;
+  }
+  .banner .ipad-text-center{
+    text-align: center;
+  }
+    /*software section start*/
+  .software {
+    padding: 20px 0px;
+  }
+
+  /*expert section start*/
+  .expert_sec{
+    padding: 35px 0px;
+  }
+
+  .expert_inner{
+    margin-top: 30px;
+  }
+  .expert_inner h2{
+    font-size: 26px;
+  }
+  .expert_inner p{
+    width: 100%;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .expert_inner .btn-info{
+    font-size: 17px;
+    padding: 8px 15px;
+    margin: 0px 0px 30px 0px;
+  }
+  .expert_sec .img-fluid{
+    width: 100%;
+  }
+
+    /*service section start*/
+  .service{
+    margin: 10px 0px;
+  }
+  .service_header h1 {
+    font-size: 30px;
+  }
+  .service_header p {
+    font-size: 16px;
+    line-height: 1.6em;
+  }
+  .service_box h4 {
+    font-size: 18px;
+}
+  .service_box img{
+    width: 100%;
+  }
+
+  /*reason section start*/
+  .reason{
+    width: 100%;
+    padding: 80px 0px 0px;
+    margin: 0px 0px;
+    position: relative;
+    z-index: 0;
+  }
+ .reason p {
+    font-size: 18px;
+    font-weight: 700;
+  }
+  .reason_inner h2 {
+    font-size: 25px;
+  }
+
+  /*client section start*/
+  .client_header h1 {
+    font-size: 30px;
+  }
+  .client_box {
+    margin: 10px 0px;
+  }
+
+    /*get started section start*/
+  .get_started{
+    text-align: center;
+  }
+  .get_inner h2 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+  }
+  .button_start .btn-info {
+    font-size: 14px;
+    width: 170px;
+    height: 45px;
+  }
+
+
+
+/* CSS end*/  
+}
+
+
+
